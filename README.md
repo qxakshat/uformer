@@ -2,8 +2,8 @@
 
 Steps to reproduce the results in UFormer Section 5.
 Env:
-- `conda env -n uformer python3.11
-- pip install recbole==1.2`
+- `conda env -n uformer python3.11`
+- `pip install recbole==1.2`
 Run Benchmarks:
 - `python3 flip.py`
 
