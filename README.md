@@ -12,7 +12,7 @@ Env:
 - `pip install recbole==1.2`
 - Run Benchmarks: `python3 flip.py`
 
-
+Training Logs can be found in spreadsheet.
 Benchmarks can be found in `Sequential_recommendation.md`
 Benchmarks for Sequential_recommendation.md is done on:
 ```
